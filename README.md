@@ -52,7 +52,7 @@ Sistema de gestión para negocios:
 - control de productos  
 - reportes  
 
-🎥 Demo:
+🎥 Ver sistema en funcionamiento:
 
 [![Ver video](https://img.youtube.com/vi/izRZRCCNg_o/0.jpg)](https://www.youtube.com/watch?v=izRZRCCNg_o)
 
