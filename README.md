@@ -8,7 +8,7 @@
 
 Trabajo con lógica de negocio concreta como caja, ventas, stock, usuarios y reportes, desarrollando aplicaciones completas desde el frontend hasta el backend.
 
-Actualmente formo parte de **3Byte**, un proyecto propio donde desarrollamos software a medida y seguimos creciendo en cada implementación.
+Actualmente formo parte de **3Byte**, un proyecto propio en crecimiento donde desarrollamos software a medida y seguimos creciendo en cada implementación.
 
 ---
 
