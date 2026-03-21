@@ -71,7 +71,7 @@ Sistema de gestión de socios:
   
  🎥 Ver sistema en funcionamiento:
 
-[![Ver video](https://img.youtube.com/vi/onQnZrR-hl0/0.jpg)](https://www.youtube.com/watch?v=onQnZrR-hl0)
+[![Ver video](https://www.linkedin.com/feed/update/urn:li:activity:7440135641218183168/)
 
 ## 📈 Enfoque actual
 
