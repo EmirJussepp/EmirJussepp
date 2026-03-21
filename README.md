@@ -4,11 +4,12 @@
 
 # 👋 Hola, soy Emir
 
-💻 Desarrollador Full Stack enfocado en construir sistemas reales para negocios.
+💻 Desarrollador Full Stack en formación, enfocado en sistemas reales para negocios con Vue.js y Kotlin Ktor.
+Trabajo en equipo dentro de 3Byte(proyecto personal), donde desarrollamos proyectos reales y sigo aprendiendo constantemente.
 
-Trabajo con lógica de negocio concreta como caja, ventas, stock, usuarios y reportes, desarrollando aplicaciones completas desde el frontend hasta el backend.
+Me considero una persona responsable, con buena actitud y ganas de mejorar siempre. No tengo problema en equivocarme, aprender y resolver.
 
-Actualmente formo parte de **3Byte**, un proyecto propio en crecimiento donde desarrollamos software a medida y seguimos creciendo en cada implementación.
+Busco experiencia profesional donde pueda seguir aprendiendo, desarrollarme en equipo, demostrar mis ganas de crecer y dar lo mejor de mi.
 
 ---
 
@@ -17,6 +18,7 @@ Actualmente formo parte de **3Byte**, un proyecto propio en crecimiento donde de
 - Desarrollo aplicaciones end-to-end (frontend + backend)
 - Experiencia con sistemas reales y procesos de negocio
 - Enfoque en backend sólido con Kotlin
+- Enfoque en frontend sólido con Vue 3
 - Mejora continua en arquitectura y diseño de APIs
 
 ---
