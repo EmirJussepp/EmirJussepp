@@ -13,11 +13,11 @@ Busco experiencia profesional remota donde pueda seguir creciendo, aportar en eq
 - Trabajo AI-first y mejora continua en arquitectura y diseño de APIs
 
 ## 🧰 Stack principal
-**Frontend:** React · Next.js · Vue 3 · TypeScript · Tailwind CSS
-**Backend:** Node.js · Kotlin Ktor · REST API · JWT
-**Base de datos:** PostgreSQL · MySQL · Prisma · Exposed ORM
-**DevOps:** Docker · Linux · nginx · VPS · systemd
-**Extras:** WhatsApp API · Resend · iText7 · Git · Postman
+- **Frontend:** React · Next.js · Vue 3 · TypeScript · Tailwind CSS
+- **Backend:** Node.js · Kotlin Ktor · REST API · JWT
+- **Base de datos:** PostgreSQL · MySQL · Prisma · Exposed ORM
+- **DevOps:** Docker · Linux · nginx · VPS · systemd
+- **Extras:** WhatsApp API · Resend · iText7 · Git · Postman
 
 ## 📂 Proyectos en producción
 
