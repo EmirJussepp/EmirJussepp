@@ -1,87 +1,43 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=180&section=header&text=Emir%20Jussepp&fontColor=ffffff&fontSize=42&animation=fadeIn" />
-</p>
+💻 Desarrollador Full Stack enfocado en construir sistemas reales para negocios. Co-fundador de **3Byte**, donde desarrollo y mantengo en producción aplicaciones que negocios usan todos los días. Trabajo de punta a punta: React, Next.js, Vue 3 y TypeScript en el frontend; Node.js y Kotlin Ktor en el backend.
 
-# 👋 Hola, soy Emir
+Me considero responsable, con buena actitud y ganas de mejorar siempre. Aprendo rápido, me adapto al stack del equipo y uso herramientas de IA (Claude Code, Cursor) en mi día a día para desarrollar mejor y mantener la calidad. No tengo problema en equivocarme, aprender y resolver.
 
-💻 Desarrollador Full Stack en formación, enfocado en sistemas reales para negocios con Vue.js y Kotlin Ktor.
-Trabajo en equipo dentro de 3Byte(proyecto personal), donde desarrollamos proyectos reales y sigo aprendiendo constantemente.
-
-Me considero una persona responsable, con buena actitud y ganas de mejorar siempre. No tengo problema en equivocarme, aprender y resolver.
-
-Busco experiencia profesional donde pueda seguir aprendiendo, desarrollarme en equipo, demostrar mis ganas de crecer y dar lo mejor de mi.
-
----
+Busco experiencia profesional remota donde pueda seguir creciendo, aportar en equipo y dar lo mejor de mí.
 
 ## 🚀 Sobre mí
-
-- Desarrollo aplicaciones end-to-end (frontend + backend)
-- Experiencia con sistemas reales y procesos de negocio
-- Enfoque en backend sólido con Kotlin
-- Enfoque en frontend sólido con Vue 3
-- Mejora continua en arquitectura y diseño de APIs
-
----
+- Desarrollo aplicaciones end-to-end (frontend + backend + deploy)
+- 4 sistemas reales en producción, usados por negocios
+- Frontend sólido con React, Next.js y Vue 3
+- Backend con Node.js y Kotlin Ktor
+- Manejo mi propia infraestructura (Docker, nginx, VPS)
+- Trabajo AI-first y mejora continua en arquitectura y diseño de APIs
 
 ## 🧰 Stack principal
+**Frontend:** React · Next.js · Vue 3 · TypeScript · Tailwind CSS
+**Backend:** Node.js · Kotlin Ktor · REST API · JWT
+**Base de datos:** PostgreSQL · MySQL · Prisma · Exposed ORM
+**DevOps:** Docker · Linux · nginx · VPS · systemd
+**Extras:** WhatsApp API · Resend · iText7 · Git · Postman
 
-### Frontend
-![Vue](https://img.shields.io/badge/Vue%203-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+## 📂 Proyectos en producción
 
-### Backend
-![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-000000?style=for-the-badge&logo=ktor&logoColor=white)
-![Exposed](https://img.shields.io/badge/Exposed-1f1f1f?style=for-the-badge&logo=jetbrains&logoColor=white)
+### 🏟️ SportByte — SaaS multi-club de reservas deportivas
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Vercel`
+Plataforma multi-tenant: reservas online y turnos fijos, membresías, calendario admin con detección de conflictos en tiempo real, suscripciones con prueba y notificaciones automáticas por WhatsApp/email.
 
-### Base de datos
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🛠️ Elite Car-Shop — Sistema comercial
+`Vue 3` `Kotlin Ktor` `Exposed`
+Ventas, compras, caja por turnos, control de stock en tiempo real, cuenta corriente y reportes. Integración bidireccional con Tienda Nube vía webhooks.
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🏋️ Aero Gym — Gestión de gimnasio
+`Vue 3` `Kotlin Ktor` `JWT`
+Socios, membresías, control de asistencia, pagos, reportes PDF y alertas de vencimiento.
 
----
-
-## 🧩 Proyectos
-
-### 🚀 GestionaTuNegocio
-
-Sistema de gestión para negocios:
-
-- caja por turnos  
-- ventas integradas con stock  
-- control de productos  
-- reportes  
-
-🎥 Ver sistema en funcionamiento:
-
-[![Ver video](https://img.youtube.com/vi/izRZRCCNg_o/0.jpg)](https://www.youtube.com/watch?v=izRZRCCNg_o)
-
----
-
-### ⚽ GestionaTuPeña
-
-Sistema de gestión de socios:
-
-- cuotas  
-- beneficios  
-- movimientos  
-- administración completa
-  
- 🎥 Ver sistema en funcionamiento:
-
-[![Ver video](https://tinyurl.com/2ycs8r25)
-
-## 📈 Enfoque actual
-
-Profundizando en desarrollo backend con Kotlin, diseño de APIs REST y manejo de datos con Exposed, aplicándolo en sistemas reales.
-
----
+### 🤝 Peña Boquense — Gestión de socios
+`Vue 3` `Kotlin Ktor` `JWT`
+Socios, cuotas, movimientos financieros, reportes y control de roles.
 
 ## 📫 Contacto
-
-- LinkedIn: (https://linkedin.com/in/emir-jussepp-54252b36a/)
-- Proyecto: 3Byte
-
----
+- 🌐 Portfolio: https://grupo3byte.com
+- 💼 LinkedIn: https://linkedin.com/in/emir-jussepp-54252b36a
+- 📧 jusseppemir@gmail.com
